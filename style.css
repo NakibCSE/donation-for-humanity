@@ -154,3 +154,76 @@ h2 {
     font-size: 700;
     margin-top: 40px;
 }
+.contribution-2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 7%;
+    margin-right: 2%;
+}
+
+.contribution-text2 {
+    width: 50%;
+    padding-top: 50px;
+    padding-right: 40px;
+}
+
+.contribution-image2 img {
+    width: 80%;
+    height: 400px;
+    padding: 20px;
+    padding-top: 45px;
+    padding-right: 20px;
+}
+.subscription {
+    text-align: center;
+    margin: 0px 25%;
+    margin-bottom: 50px;
+}
+
+.subscription-text {
+    padding: 5px 10%;
+}
+
+.subscription-input {
+    text-align: center;
+    padding: 35px;
+    margin-bottom: 50px;
+    background-color: rgba(238, 238, 122, 0.664);
+}
+
+.subscription-email {
+    width: 35%;
+    height: 30px;
+    outline: none;
+    border: none;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+
+.subscription-btn {
+    width: 15%;
+    color: white;
+    height: 32px;
+    outline: none;
+    border: none;
+    background-image: linear-gradient(rgb(240, 116, 94), rgb(226, 41, 9));
+    margin-left: -5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+    padding: 20px 0;
+}
+
+.footer-heading {
+    color: rgb(226, 41, 9);
+}
+
+.footer-para {
+    color: white;
+}
