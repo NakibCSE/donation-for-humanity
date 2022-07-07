@@ -84,3 +84,42 @@ h2 {
     padding: 25px 13px;
     background-color: rgb(238, 232, 232);
 }
+.donation-plan {
+    margin: 50px 0px;
+    padding: 10px 8%;
+}
+.plan-text {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.plan-cards {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.card-1 {
+    text-align: left;
+    margin: 5px 15px;
+    padding: 20px;
+    padding-left: 20px;
+    background-color: rgba(153, 150, 150, 0.473);
+
+}
+
+.card-2 {
+    text-align: left;
+    margin: 5px 15px;
+    padding: 20px;
+    padding-left: 20px;
+    background-color: rgba(255, 192, 203, 0.486);
+}
+
+.card-3 {
+    text-align: left;
+    margin: 5px 15px;
+    padding: 20px;
+    padding-left: 20px;
+    background-color: rgba(216, 216, 123, 0.664);
+}
