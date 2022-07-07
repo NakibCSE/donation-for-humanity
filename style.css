@@ -123,3 +123,34 @@ h2 {
     padding-left: 20px;
     background-color: rgba(216, 216, 123, 0.664);
 }
+.contribution-1 {
+    display: flex;
+    justify-content: space-around;
+    margin: 7%;
+    margin-right: 2%;
+}
+
+.contribution-text1 {
+    width: 50%;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.contribution-image1 img {
+    width: 80%;
+    height: 400px;
+    padding: 30px;
+    padding-top: 45px;
+    padding-right: 20px;
+}
+
+.contribute-btn {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(240, 116, 94), rgb(226, 41, 9));
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 700;
+    margin-top: 40px;
+}
